@@ -1,0 +1,25 @@
+{
+  "channel": "stable",
+  "mandatory": false,
+  "min_version": "0.1.0",
+  "notes": [
+    "Thêm chức năng cập nhật phiên bản: Cài đặt → Phiên bản → Kiểm tra cập nhật.",
+    "Bản cập nhật được kiểm tra chữ ký số, tự sao lưu trước khi cài và tự quay về bản cũ nếu lỗi."
+  ],
+  "packages": {
+    "app": {
+      "sha256": "33da952951b49c89dda25685e96a3c157d8782788110c3575e32d6fb1e1563dc",
+      "size": 836857,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.0/Clinic189-0.2.0-windows-x64-app.zip"
+    },
+    "full": {
+      "sha256": "38712562e295fcb90e310e0fb5c3c72498bd9800d5919b6b6f8e3b58f5c53c0d",
+      "size": 31914760,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.0/Clinic189-0.2.0-windows-x64.zip"
+    }
+  },
+  "released_at": "2026-10-03T03:49:46Z",
+  "runtime_id": "py3.12.15-pbs20261001-254ce525897c",
+  "schema": 1,
+  "version": "0.2.0"
+}
