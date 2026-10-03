@@ -3,23 +3,24 @@
   "mandatory": false,
   "min_version": "0.1.0",
   "notes": [
-    "Sửa lỗi vẫn hiện \"Thất bại\" ở Lần cập nhật gần nhất sau khi đã cập nhật xong bằng cách khác.",
-    "Báo rõ khi ứng dụng cài trên thư mục mạng/thư mục chia sẻ (không tự cập nhật được), thay vì cập nhật rồi thất bại."
+    "Đồng bộ Google Sheet ghi thêm trang tính \"Khám bệnh\" (mỗi lượt khám một dòng).",
+    "Tự kiểm tra phiên bản khi mở ứng dụng và hiện thông báo khi có bản mới.",
+    "Sao lưu/khôi phục đầy đủ cấu hình, kể cả mật khẩu."
   ],
   "packages": {
     "app": {
-      "sha256": "543257a9e954ed5ba45cb9f48268b0142781efe793f80e9a7fae30e9f6e69c87",
-      "size": 836815,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.2/Clinic189-0.2.2-windows-x64-app.zip"
+      "sha256": "a07f123bf808755bbb7c88c4e50d565381b548d6cbb95ada14e7d22dfb0537e8",
+      "size": 840050,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.3/Clinic189-0.2.3-windows-x64-app.zip"
     },
     "full": {
-      "sha256": "9f330558491c7612a771e9947418dd046b5eccd4830f6ada282eedcb9af1a75a",
-      "size": 31914718,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.2/Clinic189-0.2.2-windows-x64.zip"
+      "sha256": "5010f54eabc12956c21d0d9e3e29bf26d6fb407e6d67214c3076f21f8fea226d",
+      "size": 31917953,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.3/Clinic189-0.2.3-windows-x64.zip"
     }
   },
-  "released_at": "2026-10-03T06:29:00Z",
-  "runtime_id": "py3.12.15-pbs20261001-58c1bd62602d",
+  "released_at": "2026-10-03T16:07:11Z",
+  "runtime_id": "py3.12.15-pbs20261001-9a804d12a07c",
   "schema": 1,
-  "version": "0.2.2"
+  "version": "0.2.3"
 }
