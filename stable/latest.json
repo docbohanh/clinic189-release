@@ -3,24 +3,23 @@
   "mandatory": false,
   "min_version": "0.1.0",
   "notes": [
-    "Sao lưu đầy đủ mọi tham số cấu hình.",
-    "Khôi phục toàn bộ cấu hình, không cần cài đặt lại.",
-    "Thông báo khi nhập dữ liệu chỉ hiển thị trạng thái."
+    "Sửa lỗi vẫn hiện \"Thất bại\" ở Lần cập nhật gần nhất sau khi đã cập nhật xong bằng cách khác.",
+    "Báo rõ khi ứng dụng cài trên thư mục mạng/thư mục chia sẻ (không tự cập nhật được), thay vì cập nhật rồi thất bại."
   ],
   "packages": {
     "app": {
-      "sha256": "148b75e69fd2ca2bcc02db7479c261745bd6f456aca81cef6c383e45568658e6",
-      "size": 836361,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.1/Clinic189-0.2.1-windows-x64-app.zip"
+      "sha256": "543257a9e954ed5ba45cb9f48268b0142781efe793f80e9a7fae30e9f6e69c87",
+      "size": 836815,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.2/Clinic189-0.2.2-windows-x64-app.zip"
     },
     "full": {
-      "sha256": "14f3876a58941235f0fdec67c7205d62e79fa17cd9ffe8c2682b6e6cb693a0e0",
-      "size": 31914262,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.1/Clinic189-0.2.1-windows-x64.zip"
+      "sha256": "9f330558491c7612a771e9947418dd046b5eccd4830f6ada282eedcb9af1a75a",
+      "size": 31914718,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.2/Clinic189-0.2.2-windows-x64.zip"
     }
   },
-  "released_at": "2026-10-03T05:07:37Z",
-  "runtime_id": "py3.12.15-pbs20261001-a860e3ee1b04",
+  "released_at": "2026-10-03T06:29:00Z",
+  "runtime_id": "py3.12.15-pbs20261001-58c1bd62602d",
   "schema": 1,
-  "version": "0.2.1"
+  "version": "0.2.2"
 }
