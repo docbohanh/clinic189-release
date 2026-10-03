@@ -3,24 +3,22 @@
   "mandatory": false,
   "min_version": "0.1.0",
   "notes": [
-    "Đồng bộ Google Sheet ghi thêm trang tính \"Khám bệnh\" (mỗi lượt khám một dòng).",
-    "Tự kiểm tra phiên bản khi mở ứng dụng và hiện thông báo khi có bản mới.",
-    "Sao lưu/khôi phục đầy đủ cấu hình, kể cả mật khẩu."
+    "Thêm khóa xác thực dự phòng cho bản cập nhật (an toàn hơn khi thay khóa ký)."
   ],
   "packages": {
     "app": {
-      "sha256": "a07f123bf808755bbb7c88c4e50d565381b548d6cbb95ada14e7d22dfb0537e8",
-      "size": 840050,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.3/Clinic189-0.2.3-windows-x64-app.zip"
+      "sha256": "e52283810ebee9f120eb32c5c6a1488ba1e08fdc2f7fcf5d2d81a09fe8c48db5",
+      "size": 840130,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.4/Clinic189-0.2.4-windows-x64-app.zip"
     },
     "full": {
-      "sha256": "5010f54eabc12956c21d0d9e3e29bf26d6fb407e6d67214c3076f21f8fea226d",
-      "size": 31917953,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.3/Clinic189-0.2.3-windows-x64.zip"
+      "sha256": "e6a8d02a7ff24c20ff7f28bce023331a52e6a5c4bc6183de59dbd72d6dd0261a",
+      "size": 31918033,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.4/Clinic189-0.2.4-windows-x64.zip"
     }
   },
-  "released_at": "2026-10-03T16:07:11Z",
-  "runtime_id": "py3.12.15-pbs20261001-9a804d12a07c",
+  "released_at": "2026-10-03T16:17:48Z",
+  "runtime_id": "py3.12.15-pbs20261001-647e639beb8e",
   "schema": 1,
-  "version": "0.2.3"
+  "version": "0.2.4"
 }
