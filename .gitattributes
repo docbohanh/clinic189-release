@@ -1,0 +1,3 @@
+# Chữ ký số tính trên từng byte của latest.json: Git không được đổi kết thúc dòng (LF/CRLF).
+*.json -text
+*.sig  -text
