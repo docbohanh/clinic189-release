@@ -3,23 +3,24 @@
   "mandatory": false,
   "min_version": "0.1.0",
   "notes": [
-    "Thêm chức năng cập nhật phiên bản: Cài đặt → Phiên bản → Kiểm tra cập nhật.",
-    "Bản cập nhật được kiểm tra chữ ký số, tự sao lưu trước khi cài và tự quay về bản cũ nếu lỗi."
+    "Sao lưu đầy đủ mọi tham số cấu hình.",
+    "Khôi phục toàn bộ cấu hình, không cần cài đặt lại.",
+    "Thông báo khi nhập dữ liệu chỉ hiển thị trạng thái."
   ],
   "packages": {
     "app": {
-      "sha256": "33da952951b49c89dda25685e96a3c157d8782788110c3575e32d6fb1e1563dc",
-      "size": 836857,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.0/Clinic189-0.2.0-windows-x64-app.zip"
+      "sha256": "148b75e69fd2ca2bcc02db7479c261745bd6f456aca81cef6c383e45568658e6",
+      "size": 836361,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.1/Clinic189-0.2.1-windows-x64-app.zip"
     },
     "full": {
-      "sha256": "38712562e295fcb90e310e0fb5c3c72498bd9800d5919b6b6f8e3b58f5c53c0d",
-      "size": 31914760,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.0/Clinic189-0.2.0-windows-x64.zip"
+      "sha256": "14f3876a58941235f0fdec67c7205d62e79fa17cd9ffe8c2682b6e6cb693a0e0",
+      "size": 31914262,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.1/Clinic189-0.2.1-windows-x64.zip"
     }
   },
-  "released_at": "2026-10-03T03:49:46Z",
-  "runtime_id": "py3.12.15-pbs20261001-254ce525897c",
+  "released_at": "2026-10-03T05:07:37Z",
+  "runtime_id": "py3.12.15-pbs20261001-a860e3ee1b04",
   "schema": 1,
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
