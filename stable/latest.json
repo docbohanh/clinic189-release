@@ -3,22 +3,24 @@
   "mandatory": false,
   "min_version": "0.1.0",
   "notes": [
-    "Thêm khóa xác thực dự phòng cho bản cập nhật (an toàn hơn khi thay khóa ký)."
+    "Thêm mục \"Cập nhật thủ công\" (mở thư mục kịch bản hoặc tải về) trong Cài đặt > Phiên bản khi cập nhật tự động báo lỗi.",
+    "Cập nhật tự động chỉ đóng ứng dụng sau khi chắc chắn trình cập nhật đã chạy; nếu không chạy được, ứng dụng vẫn hoạt động bình thường.",
+    "Hiển thị rõ lý do khi cập nhật thất bại và ghi lại thông báo lỗi của PowerShell để dễ xử lý."
   ],
   "packages": {
     "app": {
-      "sha256": "e52283810ebee9f120eb32c5c6a1488ba1e08fdc2f7fcf5d2d81a09fe8c48db5",
-      "size": 840130,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.4/Clinic189-0.2.4-windows-x64-app.zip"
+      "sha256": "6194b7ad8994ce65ebf20756ee41b6e91c3ad22a2218307377163f3093d735b6",
+      "size": 844232,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.5/Clinic189-0.2.5-windows-x64-app.zip"
     },
     "full": {
-      "sha256": "e6a8d02a7ff24c20ff7f28bce023331a52e6a5c4bc6183de59dbd72d6dd0261a",
-      "size": 31918033,
-      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.4/Clinic189-0.2.4-windows-x64.zip"
+      "sha256": "7bae6e0c5a76930a546b0dee09702613c96286d289bd18b91e57453d439ae909",
+      "size": 31922138,
+      "url": "https://github.com/docbohanh/clinic189-release/releases/download/v0.2.5/Clinic189-0.2.5-windows-x64.zip"
     }
   },
-  "released_at": "2026-10-03T16:17:48Z",
-  "runtime_id": "py3.12.15-pbs20261001-647e639beb8e",
+  "released_at": "2026-10-04T16:30:43Z",
+  "runtime_id": "py3.12.15-pbs20261001-187448b4b7f1",
   "schema": 1,
-  "version": "0.2.4"
+  "version": "0.2.5"
 }
